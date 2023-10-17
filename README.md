@@ -49,8 +49,8 @@ Users can quickly save and retrieve data with this Web Application, a user-frien
 
  #### Firebase Realtime Storage Structure
 
- ![alt text](https://)
- ![alt text](https://)
+ ![alt text](https://github.com/Macgill-john/Store-Retrieve-WEBapp/githubimg/Storage.png)
+ ![alt text](https://github.com/Macgill-john/Store-Retrieve-WEBapp/githubimg/retrieve.png)
 
  # Screenshots
 
