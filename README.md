@@ -48,13 +48,20 @@ Users can quickly save and retrieve data with this Web Application, a user-frien
  - If User click Retrieve Files then new tab will be opened and all their file data will be displayed in table and User can Download them back.
 
  #### Firebase Realtime Storage Structure
-
+ 
+ ![alt text](githubimg/retrieve.img)
  ![alt text](githubimg/Storage.png)
- ![alt text](https://github.com/Macgill-john/Store-Retrieve-WEBapp/githubimg/retrieve.png)
 
  # Screenshots
 
- ![alt text](https://)
+ ![alt text](githubimg/login.png)
+ ![alt text](githubimg/signup.png)
+ ![alt text](githubimg/hometext.png)
+ ![alt text](githubimg/textret.png)
+ ![alt text](githubimg/homefile.png)
+ ![alt text](githubimg/fileret.png)
+ 
+ 
 
 
 
