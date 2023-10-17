@@ -49,7 +49,7 @@ Users can quickly save and retrieve data with this Web Application, a user-frien
 
  #### Firebase Realtime Storage Structure
  
- ![alt text](githubimg/retrieve.img)
+ ![alt text](githubimg/realtime.png)
  ![alt text](githubimg/Storage.png)
 
  # Screenshots
