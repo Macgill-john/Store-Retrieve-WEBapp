@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Home-Store Retrieve webApp</title>
+    <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.0/css/bulma.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-social@1/bin/bulma-social.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.13.0/css/all.min.css" />
+    <link rel="stylesheet" href="css/styles_home.css" />
+
+  </head>
+  <body>
+    <section class="hero is-fullheight">
+      <div class="hero-body">
+        <div class="container has-text-centered">
+          <div class="column is-4 is-offset-4">
+              <form action="" id="messageform">
+                <div class="field">
+                  <p class="control has-icons-left has-icons-right">
+                    <input class="input is-large custom" type="text" placeholder="Enter Something" id="message"/>
+                  </p>
+                </div>
+                <button class="button is-block is-info is-large is-fullwidth" type="submit">Submit</button><br />
+                </form>
+              <button class="button is-block is-info is-large is-fullwidth" onclick="window.open('retrieve.html')">Retrieve</button><br />
+              <form action="" id="fileform">
+                <div class="field">
+                  <p class="control has-icons-left has-icons-right">
+                    <input class="input is-large custom" type="file" placeholder="Select file" id="fileinput"/>
+                  </p>
+                </div>
+                <button class="button is-block is-info is-large is-fullwidth" type="submit">Upload</button><br />
+                </form>
+                <button class="button is-block is-info is-large is-fullwidth" onclick="window.open('retrieve_file.html')">Retrieve Files</button><br />
+            </div>
+        </div>
+      </div>
+      <div class="hero-foot">
+      </div>
+    </section>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/firebase/7.14.1-0/firebase.js" type="module"></script>
+    <script src="https://www.gstatic.com/firebasejs/6.0.2/firebase.js" type="module"></script>
+    <script src="/javascript/home_database.js" type="module"></script>
+  </body>
+</html>
